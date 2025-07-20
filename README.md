@@ -5,7 +5,7 @@
 Information Systems Engineering student at UTN FRBA, currently in my third year. I'm seeking a software development or systems analysis internship where I can apply and deepen my knowledge in programming, data structures, object-oriented design, and software architecture. I’m passionate about working in agile teams, contributing with effective technical solutions, and learning from experienced professionals to make a real impact on tech projects.
 
 <p align="left">
-    <a href="www.linkedin.com/in/santiago-siclari">Linkedin Profile</a>
+    <a href="https://www.linkedin.com/in/santiago-siclari">Linkedin Profile</a>
     <a href="https://portfoliosiclari.netlify.app">Portfolio Profile</a>
 </p>
 
